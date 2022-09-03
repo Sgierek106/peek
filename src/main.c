@@ -19,7 +19,7 @@
 #include <path.h>
 
 // Path for games directory
-#define GAMES_PATH "/media/fat/games"
+#define GAMES_PATH "/media/fat/cifs"
 
 // Mount directory name to use
 // NOTE: single ticks (') not allowed in mount name
